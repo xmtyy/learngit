@@ -3,3 +3,4 @@ Git is free software under the GPL.
 Git has a mutable index called stage.
 11111111111111111
 222222222222
+777
